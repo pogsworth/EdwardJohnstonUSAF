@@ -1,0 +1,249 @@
+{
+    "title": {
+        "text": {
+          "headline": "Edward L. Johnston<br/>Air Force Years 1954 - 1973",
+          "text": "<p></p>"
+        }
+    },
+    "events": [
+      {
+        "start_date": {
+          "year": "1935",
+          "month": "5",
+          "day": "8"
+        },
+        "text": {
+          "headline": "Birth",
+          "text": "<p>Born in Twin Falls, Idaho. Dad's parents lived with or next to Dad's great Uncle Ed.  They lived here until he was approx 5 years old?</p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1941"
+        },
+        "text": {
+          "headline": "Moved to Murray",
+          "text": "I don't have any dates on this.  This is a guess.  I don't know if they lived anywhere else in Utah.  The address in Murray is:<br>6065 South 6th West<br>Murray, UT<br>I also understand 6th West eventually changed to 7th West."
+        }
+      },
+      {
+        "start_date": {
+          "year": "1941",
+          "month": "9"
+        },
+        "end_date": {
+            "year": "1947",
+            "month": "5"
+        },
+        "text": {
+          "headline": "Elementary School",
+          "text": "Ed attended Liberty Elementary School in Murray, Utah."
+        }
+      },
+      {
+        "start_date": {
+          "year": "1947",
+          "month": "9"
+        },
+        "end_date": {
+            "year": "1953",
+            "month": "5"
+        },
+        "text": {
+          "headline": "High School",
+          "text": "Ed attended Murray High School in Murray, Utah."
+        }
+      },
+      {
+        "start_date": {
+          "year": "1953",
+          "month": "9"
+        },
+        "end_date": {
+            "year": "1954",
+            "month": "1"
+        },
+        "text": {
+          "headline": "College",
+          "text": "Ed attended one quarter at the University of Utah in the Fall of 1953 in Salt Lake City, Utah.  He began his studies of Electrical Engineering.<br>List of courses taken:<br>Engineering 220<br>General Air Force Subjects<br>English Composition<br>Chemistry<br>Drafting<br>Trigonometry"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1954",
+          "month": "1"
+        },
+        "end_date": {
+            "year": "1954",
+            "month": "4"
+        },
+        "text": {
+          "headline": "Basic Training",
+          "text": "Lackland AFB San Antonio, Texas"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1954",
+          "month": "4"
+        },
+        "end_date": {
+            "year": "1954",
+            "month": "10"
+        },
+        "text": {
+          "headline": "Pre Cadet Training",
+          "text": "Connelly AFB, Texas"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1954",
+          "month": "10"
+        },
+        "end_date": {
+            "year": "1955",
+            "month": "1",
+            "day": "18"
+        },
+        "text": {
+          "headline": "Air Force Pre-Flight School",
+          "text": "Lackland AFB, Texas"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1955",
+          "month": "1",
+          "day": "28"
+        },
+        "end_date": {
+            "year": "1955",
+            "month": "12"
+        },
+        "text": {
+          "headline": "Air Force Flight School, Primary Basic Observer Cadet",
+          "text": "Ellington AFB, Texas"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1955",
+          "month": "12",
+          "day": "14"
+        },
+        "text": {
+          "headline": "Promoted to 2nd Lieutenant",
+          "text": "Lackland AFB San Antonio, Texas"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1956",
+          "month": "2"
+        },
+        "end_date": {
+            "year": "1956",
+            "month": "10"
+        },
+        "text": {
+          "headline": "Navigator Training School",
+          "text": "Mather AFB (Sacramento), CA"
+        }
+      },
+      {
+        "start_date": {
+            "year": "1956",
+            "month": "8",
+            "day": "17"
+        },
+        "text": {
+            "headline": "Marriage to Sandra Gay Clawson",
+            "text": "Sealed in the Los Angeles Temple, Los Angeles, CA"
+          }
+      },
+      {
+        "start_date": {
+          "year": "1956",
+          "month": "10"
+        },
+        "end_date": {
+            "year": "1957",
+            "month": "10"
+        },
+        "text": {
+          "headline": "Aircraft Performance Engineer Traning",
+          "text": "Carswell AFB Ft Worth, TX"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1957",
+          "month": "6",
+          "day": "12",
+        },
+        "text": {
+          "headline": "Son Richard Larry Johnston Born",
+          "text": "Ft Worth, TX"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1957",
+          "month": "7",
+          "day": "22"
+        },
+        "end_date": {
+            "year": "1957",
+            "month": "8",
+            "day": "20"
+        },
+        "text": {
+          "headline": "Grounded while recovering from Arthrotomoy.  (Removal of foreign bodies from right knee joint).  I remember Dad calling this 'knee-mice' or 'mice in the knee'.",
+          "text": "Carswell AFB Ft Worth, TX"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1958",
+          "month": "7",
+          "day": "26"
+        },
+        "text": {
+          "headline": "Son Michael David Johnston Born",
+          "text": "Sacramento, CA"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1958",
+          "month": "12",
+          "day": "14"
+        },
+        "text": {
+          "headline": "Promoted to 1st Lieutenant"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1961",
+          "month": "10",
+          "day": "25"
+        },
+        "text": {
+          "headline": "Promoted to Captain"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1997",
+          "month": "1",
+          "day": "18"
+        },
+          "text": {
+            "headline": "Death",
+            "text": "<p>Died at home in Kearns, Utah.  After having suffered a stroke the previous Fall, and recently hospitalized with pneumonia.</p>"
+        }
+      }
+    ]
+}
