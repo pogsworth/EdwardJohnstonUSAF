@@ -1,12 +1,20 @@
 {
     "title": {
-        "text": {
-          "headline": "Edward L. Johnston<br/>Air Force Years 1954 - 1973",
+      "media": {
+        "url": "{{ static url }}/img/Edward Larry Johnston in Uniform.jpg",
+        "caption": "Captain Edward Larry Johnston"
+      },
+      "text": {
+          "headline": "Edward Larry Johnston<br/>Air Force Years 1954 - 1973",
           "text": "<p></p>"
         }
     },
     "events": [
       {
+        "media": {
+          "url": "{{ static url }}/img/1935 Edward Larry Johnston baby picture.jpg",
+          "caption": "Edward Larry Johnston"
+        },
         "start_date": {
           "year": "1935",
           "month": "5",
@@ -14,19 +22,23 @@
         },
         "text": {
           "headline": "Birth",
-          "text": "<p>Born in Twin Falls, Idaho. Dad's parents lived with or next to Dad's great Uncle Ed.  They lived here until he was approx 5 years old?</p>"
+          "text": "<p>Edward Larry Johnston was born in Twin Falls, Idaho. He went by his middle name, Larry, growing up, as many of his siblings.  Ed's parents lived with or next to his great great Uncle Ed (William Edward Johnston, son of James Johnston, brother to Peter Barbour Johnston).  They lived here until he was 5 years old.</p>"
         }
       },
       {
         "start_date": {
-          "year": "1941"
+          "year": "1940"
         },
         "text": {
           "headline": "Moved to Murray",
-          "text": "I don't have any dates on this.  This is a guess.  I don't know if they lived anywhere else in Utah.  The address in Murray is:<br>6065 South 6th West<br>Murray, UT<br>I also understand 6th West eventually changed to 7th West."
+          "text": "Date uncertain.  This is a guess.  The address in Murray is:<br>6065 South 6th West<br>Murray, UT<br>6th West eventually became 7th West."
         }
       },
       {
+        "media": {
+          "url": "{{ static url }}/img/Liberty-Elementary-School.jpg",
+          "caption": "Liberty Elementary School"
+        },
         "start_date": {
           "year": "1941",
           "month": "9"
@@ -41,6 +53,10 @@
         }
       },
       {
+        "media": {
+          "url": "{{ static url }}/img/Edward Larry Johnston portrait.jpg",
+          "caption": "Portrait and Yearbook photo."
+        },
         "start_date": {
           "year": "1947",
           "month": "9"
@@ -55,6 +71,10 @@
         }
       },
       {
+        "media": {
+          "url": "https://www.utah.edu/",
+          "caption": "University of Utah."
+        },
         "start_date": {
           "year": "1953",
           "month": "9"
@@ -69,6 +89,10 @@
         }
       },
       {
+        "media": {
+          "url": "{{ static url }}/img/1954 Cadet Edward Larry Johnston in uniform.jpg",
+          "caption": "Cadet Edward Larry Johnston"
+        },
         "start_date": {
           "year": "1954",
           "month": "1"
