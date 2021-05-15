@@ -1,7 +1,7 @@
 {
     "title": {
       "media": {
-        "url": "{{ static url }}/img/Edward Larry Johnston in Uniform.jpg",
+        "url": "/img/Edward Larry Johnston in Uniform.jpg",
         "caption": "Captain Edward Larry Johnston"
       },
       "text": {
@@ -12,7 +12,7 @@
     "events": [
       {
         "media": {
-          "url": "{{ static url }}/img/1935 Edward Larry Johnston baby picture.jpg",
+          "url": "/img/1935 Edward Larry Johnston baby picture.jpg",
           "caption": "Edward Larry Johnston"
         },
         "start_date": {
@@ -36,7 +36,7 @@
       },
       {
         "media": {
-          "url": "{{ static url }}/img/Liberty-Elementary-School.jpg",
+          "url": "/img/Liberty-Elementary-School.jpg",
           "caption": "Liberty Elementary School"
         },
         "start_date": {
@@ -54,7 +54,7 @@
       },
       {
         "media": {
-          "url": "{{ static url }}/img/Edward Larry Johnston portrait.jpg",
+          "url": "/img/Edward Larry Johnston portrait.jpg",
           "caption": "Portrait and Yearbook photo."
         },
         "start_date": {
@@ -90,7 +90,7 @@
       },
       {
         "media": {
-          "url": "{{ static url }}/img/1954 Cadet Edward Larry Johnston in uniform.jpg",
+          "url": "/img/1954 Cadet Edward Larry Johnston in uniform.jpg",
           "caption": "Cadet Edward Larry Johnston"
         },
         "start_date": {
@@ -223,8 +223,8 @@
             "day": "20"
         },
         "text": {
-          "headline": "Grounded while recovering from Arthrotomoy.  (Removal of foreign bodies from right knee joint).  I remember Dad calling this 'knee-mice' or 'mice in the knee'.",
-          "text": "Carswell AFB Ft Worth, TX"
+          "headline": "Grounded while recovering from knee surgery (Arthrotomy).",
+          "text": "Carswell AFB Ft Worth, TX.  The surgery removed foreign bodies from right knee joint.  I remember Dad calling this 'knee-mice' or 'mice in the knee'."
         }
       },
       {
