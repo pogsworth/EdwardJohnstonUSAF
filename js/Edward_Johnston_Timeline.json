@@ -12,7 +12,7 @@
     "events": [
       {
         "media": {
-          "url": "http://pogsworth.github.io/EdwardJohnstonUSAF/img/1935%20Edward%20Larry%20Johnston%20baby%20picture.jpg",
+          "url": "https://pogsworth.github.io/EdwardJohnstonUSAF/img/1935%20Edward%20Larry%20Johnston%20baby%20picture.jpg",
           "caption": "Edward Larry Johnston"
         },
         "start_date": {
@@ -36,7 +36,7 @@
       },
       {
         "media": {
-          "url": "http://pogsworth.github.io/EdwardJohnstonUSAF/img/Liberty-Elementary-School.jpg",
+          "url": "https://pogsworth.github.io/EdwardJohnstonUSAF/img/Liberty-Elementary-School.jpg",
           "caption": "Liberty Elementary School"
         },
         "start_date": {
@@ -54,7 +54,7 @@
       },
       {
         "media": {
-          "url": "http://pogsworth.github.io/EdwardJohnstonUSAF/img/Edward%20Larry%20Johnston%20portrait.jpg",
+          "url": "https://pogsworth.github.io/EdwardJohnstonUSAF/img/Edward%20Larry%20Johnston%20portrait.jpg",
           "caption": "Portrait and Yearbook photo."
         },
         "start_date": {
@@ -203,7 +203,7 @@
       {
         "start_date": {
           "year": "1957",
-          "day": "12"
+          "month": "6"
         },
         "text": {
           "headline": "Son Richard Larry Johnston Born",
